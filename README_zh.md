@@ -8,7 +8,7 @@
 
 ## 1. 环境要求
 
-该脚本在```Windows 10+Python 3.8.2+Chrome 101.0.4951.54```环境下测试无误。
+该脚本在```Windows 10+Python 3.8.2+Chrome 101.0.4951.54```环境下测试无误。使用的ChromeDriver版本是[100.0.4896.60](https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip)。
 
 运行该脚本，需要安装以下软件：
 - Python3.8+，和Python库包括：
